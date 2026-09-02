@@ -33,8 +33,24 @@ Para abrir o Cofre Digital, é necessário solucionar uma sequência de desafios
 ## 📂 Estrutura
 
 ```text
-src/
-└── ...
+OperacaoEnigmaFinal/
+│
+├── src/
+│   └── legacy/
+│       ├── DecodificadorCesar.java
+│       ├── DecodificadorReserva.java
+│       ├── FiltroImagem.java
+│       ├── FiltroVermelhoMagico.java
+│       └── Main.java
+│
+├── mensagem.txt
+├── pista_01.jpg
+├── revelado.bmp
+├── ruido.bmp
+├── diagramaClasses.png
+├── gabarito_desafio.json
+├── .gitignore
+└── README.md
 ```
 
 A estrutura do projeto segue o **Diagrama de Classes UML** fornecido para o desafio.
