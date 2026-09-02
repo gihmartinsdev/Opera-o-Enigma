@@ -53,8 +53,6 @@ OperacaoEnigmaFinal/
 └── README.md
 ```
 
-A estrutura do projeto segue o **Diagrama de Classes UML** fornecido para o desafio.
-
 ## 🎯 Objetivo
 
 Implementar os decodificadores, integrar suas funcionalidades por meio de polimorfismo e solucionar todas as pistas até revelar a **mensagem final do Cofre Digital**.
@@ -64,16 +62,12 @@ Implementar os decodificadores, integrar suas funcionalidades por meio de polimo
 1. Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+github.com/juliobudiski/OperacaoEnigmaFinal.git
 ```
 
-2. Entre na pasta:
 
-```bash
- Operação Enigma 
-```
 
-3. Compile e execute o projeto utilizando **Java 11 ou superior**.
+2. Compile e execute o projeto utilizando **Java 11 ou superior**.
 
 ## 📚 Conceitos Praticados
 
